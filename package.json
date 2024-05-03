@@ -1,0 +1,17 @@
+{
+  "name": "mensajes_push",
+  "version": "1.0.0",
+  "description": "servidor para mensajes push con firebase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luis alberto",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.0"
+  }
+}
